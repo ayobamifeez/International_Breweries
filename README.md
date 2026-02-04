@@ -12,7 +12,8 @@ The Commercial Planning team wants to understand:
 - **screenshot/** - Data Model Relationship Workflow, Executive Summaries, Line Tooltip, MoM growth & decline 
 
 ## Requirements⚙️
-- Excel and Power Bi
+- Excel or any tool that can open CSV files
+- Power Bi
 
 ## How to Use
 1. Download the entire repository (top right → Code ).
