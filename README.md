@@ -7,7 +7,7 @@ The Commercial Planning team wants to understand:
 - What drivers led to growth or decline
 
 ## What's Inside📊
-- **Excel Dataset 
+- **Excel Dataset/ - Raw and Cleaned Dataset
 - **pbix/** – Final Power BI dashboard file
 - **screenshot/** - Data Model Relationship Workflow, Executive Summaries, Line Tooltip, MoM growth & decline 
 
