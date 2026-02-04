@@ -1,17 +1,17 @@
 # International_Breweries_Sales_Performance 
 
-International Breweries Plc is reviewing performance for one of its key product lines across multiple regions for the last fiscal year.  
+📊International Breweries Plc is reviewing performance for one of its key product lines across multiple regions for the last fiscal year.  
 The Commercial Planning team wants to understand: 
 - How the product has performed month-by-month
 - Whether distribution gaps and stock issues affected sales
 - What drivers led to growth or decline
 
-## What's Inside
+## What's Inside📊
 - **Excel Dataset 
 - **pbix/** – Final Power BI dashboard file
 - **screenshot/** - Data Model Relationship Workflow, Executive Summaries, Line Tooltip, MoM growth & decline 
 
-## Requirements
+## Requirements⚙️
 - Excel and Power Bi
 
 ## How to Use
